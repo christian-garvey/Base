@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Garvey (@christian-garvey-arup-com)
-- 👀 I’m interested in Ground Engineering, Rock Mechanics
+- 👀 I’m interested in automating workflows in Ground Engineering (Rock Mechanics)
 - 🌱 I’m currently learning python.
 - 📫 How to reach me christian.garvey@arup.com
 
